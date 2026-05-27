@@ -32,7 +32,7 @@ Dưới đây là một số dự án học thuật mình đã và đang tham gi
     * *Mô tả:* Xây dựng ứng dụng quản lý thư viện trường học. Dự án chú trọng vào việc tổ chức cấu trúc mã nguồn rõ ràng, áp dụng các nguyên lý thiết kế hướng đối tượng (OOP) để đảm bảo tính mở rộng và dễ bảo trì.
 
 ### Liên hệ
-- **Email:** 24022274@vnu.edu.vn
+- **Email:** 24022274@vnu.edu.vn hoặc 24022274@uet.edu.vn
 - **GitHub:** [github.com/kreitab2812](https://github.com/kreitab2812)
 
 ---
