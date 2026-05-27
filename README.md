@@ -2,7 +2,7 @@
 
 Mình là Mạnh Cường, hiện đang là sinh viên Ngành Trí Tuệ Nhân Tạo tại **Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (VNU-UET)**. Mình yêu thích việc giải quyết bài toán thông qua dữ liệu, lập trình hệ thống và đang tích lũy kiến thức định hướng trở thành một Kỹ sư dữ liệu hoặc Nhà phân tích dữ liệu.
 
-> "draw your map - chase your dream"
+> "draw your map - chase your choice"
 
 ---
 
