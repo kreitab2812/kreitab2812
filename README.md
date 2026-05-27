@@ -20,10 +20,11 @@ Mình là Mạnh Cường, hiện đang là sinh viên Ngành Trí Tuệ Nhân T
 Dưới đây là một số dự án học thuật mình đã và đang tham gia phát triển tại UET:
 
 * **Vastopolis Epidemic Analysis** (Python / Jupyter Notebook)
-    * *Môn học:* Lập trình xử lý dữ liệu – Viện Trí tuệ nhân tạo (AIT2006_3).
+    * *Môn học:* Lập trình xử lý dữ liệu (AIT2006_3).
     * *Mô tả:* Phân tích, làm sạch và trực quan hóa chuỗi dữ liệu dịch bệnh phức tạp tại thành phố giả định Vastopolis. Dự án giúp mình làm quen sâu với việc trích xuất insights từ dữ liệu thô phục vụ việc dự báo xu hướng.
 
 * **Ticket Face Recognition** (JavaScript)
+    * *Môn học:* Thực hành phát triển hệ thống Trí tuệ nhân tạo (AIT3004_4).
     * *Mô tả:* Ứng dụng nhận diện khuôn mặt ứng dụng trong các hệ thống ki-ốt chấm công tự động, hỗ trợ kiểm tra thông tin check-in sự kiện và quản lý vé ra vào một cách nhanh chóng.
 
 * **UET Library Application** (Java)
