@@ -38,8 +38,6 @@ Dưới đây là một số dự án học thuật mình đã và đang tham gi
 ---
 
 ### Thống kê hoạt động
-*(Các chỉ số này sẽ tự động cập nhật theo thời gian thực dựa trên các đóng góp của bạn trên GitHub)*
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kreitab2812&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreitab2812&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="160" />
